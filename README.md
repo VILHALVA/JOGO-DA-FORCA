@@ -7,7 +7,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/GRUPO%20CODERS-TELEGRAM-03A9F4?logo=telegram)](https://t.me/CODIGOGP)
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL%20CODERS-TELEGRAM-03A9F4?logo=telegram)](https://t.me/CODIGOCN) <br>
 
-<img src="https://img.ibxk.com.br/2015/9/programas/126927805.png" align="right" width="250">
+<img src="https://img.ibxk.com.br/2015/9/programas/126927805.png" align="center" width="250"> <br>
 
 ## COMO USAR?
 
