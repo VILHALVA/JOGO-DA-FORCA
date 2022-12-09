@@ -13,6 +13,6 @@
 
 * ✅ Baixe ou copie o repositório e executar no console da sua IDE.
 * ✅ Não se esqueça que o arquivo "WORD.txt" precisa está na mesma pasta do código e com esse mesmo nome.
-* ✅ A cada rodada o Script irá escolher qualquer palavra aleatoriamente, e você precisa advinhar.
-* ✅ No arquivo "WORD.txt" coloquei as palavras que mais usamos. Se quizer, você pode adicionar mais.
+* ✅ A cada rodada o Script irá escolher qualquer palavra aleatoriamente, e você precisa adivinhar.
+* ✅ No arquivo "WORD.txt" coloquei as palavras que mais usamos. Se quiser, você pode adicionar mais.
 
